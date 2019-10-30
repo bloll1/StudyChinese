@@ -1,0 +1,4 @@
+private class Lesson {
+
+  Lesson()
+}
